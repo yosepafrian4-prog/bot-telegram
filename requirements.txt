@@ -1,0 +1,4 @@
+project/
+ ├── bot.py
+ ├── .env
+ ├── requirements.txt
